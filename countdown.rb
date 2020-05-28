@@ -2,8 +2,5 @@
 
 def countdown
   
-  
-
-  
-end
+  end
 
