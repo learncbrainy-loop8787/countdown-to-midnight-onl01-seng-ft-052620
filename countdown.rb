@@ -1,9 +1,9 @@
 #write your code here
 
-def countdown(integer)
-  integer = 10 
+def countdown
   
-  while countdown > 0
+  
+
   
 end
 
