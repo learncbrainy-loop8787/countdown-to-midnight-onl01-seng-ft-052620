@@ -8,4 +8,4 @@ def countdown(number)
 end
 end
 
-def countdown_with_sleep(number)
+def countdown_with_sleep
